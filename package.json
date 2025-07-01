@@ -1,0 +1,26 @@
+{
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^17.0.0",
+    "express": "^5.1.0",
+    "jest": "^30.0.3",
+    "pg": "^8.16.3"
+  },
+  "name": "tp-render-backend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JacquemotLuckas/tp-render-backend.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JacquemotLuckas/tp-render-backend/issues"
+  },
+  "homepage": "https://github.com/JacquemotLuckas/tp-render-backend#readme"
+}
